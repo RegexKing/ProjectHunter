@@ -1,0 +1,1 @@
+package ; @:file("assets/libraryng.swf") class LibraryNG extends flash.utils.ByteArray { }
